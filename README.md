@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Building Automation Systems.
-- 🌱 I’m currently learning Github, LoRaWAN, and Arduino.
+- 🌱 I’m currently learning LoRaWAN, and Arduino.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 🤔 I’m looking for help with LoRaWAN projects.
